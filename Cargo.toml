@@ -1,0 +1,5 @@
+[package]
+name = "tictactoe-rs"
+version = "0.1.0"
+authors = ["Anthony Keelan"]
+edition = "2021"
